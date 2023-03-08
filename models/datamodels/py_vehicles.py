@@ -52,5 +52,5 @@ if __name__ == "__main__":
             "edited": "2014-12-20T21:30:21.661000Z",
             "url": "https://swapi.dev/api/vehicles/4/"
         }
-    veh = Vehicle_(**veh_data)
+    veh = Vechicle_(**veh_data)
     print(veh)

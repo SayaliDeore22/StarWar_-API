@@ -63,6 +63,7 @@ in the movie.
 - get singular resource URL from each resource
 - pull data from random 3 "singular" resource URLs 
 - Convert script into CLI application.
+- 
 
        
 

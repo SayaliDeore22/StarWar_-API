@@ -24,3 +24,4 @@ results = cursor.fetchall()   #fetch data using fetchall()
 for result in results:
     print(result)
 
+

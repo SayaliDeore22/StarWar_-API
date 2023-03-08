@@ -37,14 +37,3 @@ class Films(ResourceBase):
             data_.append(data["url"])
 
         return data_
-
-
-
-
-
-
-
-
-
-
-

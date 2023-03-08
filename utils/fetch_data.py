@@ -85,3 +85,4 @@ def fetch_data_json(url: str) -> Dict:
     else:
         response.json()
 
+

@@ -48,3 +48,4 @@ class Planets(ResourceBase):
         data = response.json()
         return data
 
+

@@ -22,7 +22,6 @@ def main():
         data = response.json()
         char_name = data.get("name")
         final.append(char_name)
-
     print(final)
 
 

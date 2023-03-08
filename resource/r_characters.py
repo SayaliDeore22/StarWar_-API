@@ -42,3 +42,4 @@ class Characters(ResourceBase):
         response = hit_url(absolute_url)
         data = response.json()
         return data
+

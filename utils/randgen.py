@@ -20,3 +20,4 @@ class ProduceChars:
         while current <= self.limit:
             yield random.randint(self.start, self.end)
             current += 1
+
